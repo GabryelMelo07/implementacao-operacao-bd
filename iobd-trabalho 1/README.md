@@ -1,4 +1,4 @@
-#Trabalho 1#
+###Trabalho 1
 
 Construa um B.D de um sistema de vendas de ingressos para um cinema.
 
@@ -19,10 +19,13 @@ Construa um B.D de um sistema de vendas de ingressos para um cinema.
 
 obs: colunas adicionais podem ser criadas para a construção do banco.
 
-1.(0.5) Construa o modelo relacional e o script SQL
-2.(0.5) Construa uma consulta SQL que retorne os filmes que venderam todos os ingressos de um determinada sessão (sessões que NÃO podem mais vender ingressos)
-3.(0.5) Construa uma consulta SQL que retorna para cada filme o total de ingressos vendidos (considerando todas as sessões de cada filme)
-4.(0.5) Construa uma consulta SQL que retorne o filme (ou filmes) que tiveram mais sessões no mês atual (em caso de empate deve aparecer todos os filmes empatados)
+1.(0.5) Construa o modelo relacional e o script SQL  
+
+2.(0.5) Construa uma consulta SQL que retorne os filmes que venderam todos os ingressos de um determinada sessão (sessões que NÃO podem mais vender ingressos)  
+
+3.(0.5) Construa uma consulta SQL que retorna para cada filme o total de ingressos vendidos (considerando todas as sessões de cada filme)  
+
+4.(0.5) Construa uma consulta SQL que retorne o filme (ou filmes) que tiveram mais sessões no mês atual (em caso de empate deve aparecer todos os filmes empatados)  
 
 **Valor**: 2
 
