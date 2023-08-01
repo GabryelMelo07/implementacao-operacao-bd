@@ -9,12 +9,12 @@ public class Main {
     
     Pessoa pessoa = new Pessoa();
     pessoa.setNome("Jonatan");
-    pessoa.setSobrenome("Menezes");
+    pessoa.setSobrenome("da Silva");
     new PessoaDAO().inserir(pessoa);
     
     pessoa.setId(2);
     pessoa.setNome("Priscila");
-    pessoa.setSobrenome("Vieira");
+    pessoa.setSobrenome("Souza");
     new PessoaDAO().atualizar(pessoa);
 
     Endereco endereco = new Endereco();
